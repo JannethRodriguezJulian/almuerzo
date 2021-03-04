@@ -1,0 +1,19 @@
+{
+  "name": "almuerzo",
+  "version": "1.0.0",
+  "description": "almuerzo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannethRodriguezJulian/almuerzo.git"
+  },
+  "author": "janneth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JannethRodriguezJulian/almuerzo/issues"
+  },
+  "homepage": "https://github.com/JannethRodriguezJulian/almuerzo#readme"
+}
